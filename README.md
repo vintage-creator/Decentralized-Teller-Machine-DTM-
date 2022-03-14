@@ -24,4 +24,4 @@ iii. Check Balance: This function does not modify the state of the blockchain an
 
 
 
-@author _Written by Israel Abazie.
+@author      _Written by Israel Abazie.
