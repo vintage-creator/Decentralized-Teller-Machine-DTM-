@@ -21,6 +21,8 @@ ii. Send Money: This function takes an input such as a recipient's public addres
 
 iii. Check Balance: This function does not modify the state of the blockchain and allows a user to view the current balance he/she holds stored on the blockchain. 
 
+Smart Contract verified and published on Etherscan https://rinkeby.etherscan.io/verifyContract-solc?a=0xfaf17e2d8f13590d47bae3786b6f1e4bf030f945&c=v0.8.10%2bcommit.fc410830&lictype=3
+
 
 
 
